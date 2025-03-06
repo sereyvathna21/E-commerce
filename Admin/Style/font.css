@@ -1,0 +1,18 @@
+@font-face {
+    font-family: kh-koulen;
+    src: url(./KHMEROSKOULEN.TTF);
+}
+@font-face {
+    font-family: eng-font;
+    src: url(./ARLRDBD.TTF);
+}
+#khmer{
+    font-size: 19px;
+    font-family: kh-koulen;
+    color: black;
+}
+#english{
+    font-family: eng-font;
+    font-weight: 900;
+    font-size: 1rem;
+}
